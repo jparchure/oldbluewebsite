@@ -102,7 +102,7 @@ pinterest-share: False
 pocket-share: False
 vkontakte-share: False
 
-disqus-shortname: "jparchure"
+disqus-shortname: "https-jparchure-github-io"
 
 syntax-highlight: True
 
@@ -114,7 +114,10 @@ events:
   - image: "/img/timeline/spidertocat.png"
     date: "Today"
     description: "Being Awesome"
-  - image: "/img/labtocat.png"
+  - image: "/img/timeline/labtocat.png"
+    date: "June 2015"
+    description: "Joined ACT as a Data Analyst"
+  - image: "/img/timeline/inflatocat.png"
     description: "Analyzed my first dataset"
     date: "August 2013"
   - image: "/img/timeline/pythocat.png"
@@ -163,7 +166,7 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/chellocat.png"
+404-img: "/img/chellocat.jpg"
 
 ##################
 # GPG on Keybase #
