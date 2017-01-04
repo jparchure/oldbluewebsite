@@ -1,7 +1,7 @@
 ---
 layout : post
 section-type: post
-title : New&nbsp;Year&Nbsp;New Beginnings
+title : New Year New Beginnings
 author : Jay
 ---
 
