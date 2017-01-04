@@ -16,7 +16,7 @@ This year, I resolved to make more data driven decisions in my life, be it formi
 Of course, this also means I will be working on a **lot** more data projects this year.
 I'll list here some of the projects I want to tackle in the upcoming month or two. This includes both my professional affiliations as well as personal ones.
 
-* Multi-Armed Bandit algorithms: It's an exploitation vs. exploration tradeoff problem and I will be looking into it's appplicability in Adaptive learning space.
+* Multi-Armed Bandit: It's an exploitation vs. exploration tradeoff problem and I will be looking into it's appplicability in Adaptive learning space.
 
 * Bayesian Knowledge Tracing: There has been some research done by colleague, <a href="https://twitter.com/stevepolyak"> Steve Polyak </a> on Collaborative Problem Solving using Knowledge Tracing. I hope to understand the techniques used in his paper better and possibly extend the work.
 
