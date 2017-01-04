@@ -1,7 +1,7 @@
 ---
 layout : post
 section-type: post
-title : New Year New Beginnings
+title : New&nbsp;Year&Nbsp;New Beginnings
 author : Jay
 ---
 
@@ -9,19 +9,19 @@ author : Jay
 
 
 
-First all, wish you a very happy new yeaof r.
-If you visited my site before, you'd notice that things are much newer here. New theme, new section, new profile and of course a new post to start off the year.
+First of all, Wish you a very happy new year.
+If you visited my site before, you'll notice that things are newer here. New theme, new section, new profile and of course a new post.
 This year, I resolved to make more data driven decisions in my life, be it forming an opinion about a topic, judging someone's performance or even deciding how I am going to spend my work day.
 Of course, this also means I will be working on a **lot** more data projects this year.
-I'll intend to list here some of the projects I want to tackle in the upcoming month or two. This includes both my professional affiliation as well as personal time
+I'll list here some of the projects I want to tackle in the upcoming month or two. This includes both my professional affiliations as well as personal ones.
 
-* Multi-Armed Bandit algorithm: It's an optimization trade-off algorithm and I will be exploring it's appplicability in Adaptive learning space
+* Multi-Armed Bandit algorithm: It's an optimization trade-off algorithm and I will be exploring it's appplicability in Adaptive learning space.
 
 * Bayesian Knowledge Tracing: There has been some research done by colleague, <a href="https://twitter.com/stevepolyak"> Steve Polyak </a> on Collaborative Problem Solving using Knowledge Tracing. I hope to understand the techniques used in the paper better and possibly extend the work.
 
-* Makeover Monday: The popular data reimagination project using publicly available data and vizes over <a href="https://makeovermonday.co.uk"> here. </a> To get myself back in the data visualization groove. Intially I plan to use Tableau and then revisit them using d3
+* Makeover Monday: The popular data reimagination project using publicly available data and vizes over <a href="https://makeovermonday.co.uk"> here. </a> To get myself back in the data visualization groove. Intially I plan to use Tableau and then revisit them using d3.
 
-* Crime Statistics in India: This has been something that has intrigued me for quite some time. It was only recently that I started working on it. The project is big, with significant data challenges, so I'll keep you updated with a dedicated post
+* Crime Statistics in India: This has been something that has intrigued me for quite some time. It was only recently that I started working on it. The project is big, with significant data challenges, so I'll keep you updated with a dedicated post.
 
 
 Of these, the first two are more theoretical, and work related projects. The other two are personal and would produce artifacts which I hope to share in the upcoming weeks.
