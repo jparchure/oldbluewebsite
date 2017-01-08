@@ -6,7 +6,7 @@ author : Jay
 ---
 
 
-As I mentioned in the last post, I worked on a weekly visualization challenge called <a href="https://makeovermonday.co.uk">Makeover Monday</a>.
+As I mentioned in the last post, I worked on the weekly visualization challenge called <a href="https://makeovermonday.co.uk">Makeover Monday</a>.
 This week, the topic was the earnings disparity between men and women. The data, which can be found <a href="http://www.makeovermonday.co.uk/data/">here</a>, comes from the Government of Australia Tax department.
 Here's my submission as a Tableau dashboard.
 
