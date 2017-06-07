@@ -6,7 +6,7 @@ author : Jay
 ---
 
 
-Sorry for the long gap in another post. I started a new position as Senior BI Analyst at Target and was busy adjusting to the new job and city.
+Sorry for the long gap. I started a new position as Senior BI Analyst at Target and was busy adjusting to the new job and city.
 In today's adventures in Data Hunting, I'll showcase three data visualizations that caught my fancy in the wild seas of Internet. What makes them interesting? Let's take a look-
 
 <a href="http://andywoodruff.com/blog/beyond-the-sea/"> Beyond the Sea </a> ![Beyond The Sea](http://andywoodruff.com/blog/wp-content/uploads/2016/03/sea-1700.jpg)
