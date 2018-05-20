@@ -56,7 +56,6 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "What insight will you find today?"
-  - text: "Work smarter, not harder"
   - text: "If not here, where would you rather be?"
 me-img: "/img/mountietocat.png"
 
@@ -182,14 +181,14 @@ keybase-in-footer: True
 pages_list:
   About: 'about'
   FAQ: 'faq'
-  Blog: 'latest-post'
+  #Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
 
 # Exclusion list from the generated _site
 
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts", "blog"]
 
 # Pagination path
 
